@@ -16,7 +16,7 @@ This project is a Power BI dashboard that provides insights into weather conditi
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](./dashboard-preview2.jpeg.jpeg)
+![Dashboard Preview](dashboard-preview2.jpeg.jpeg)
 
 ---
 
